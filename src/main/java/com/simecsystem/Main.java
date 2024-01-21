@@ -1,4 +1,4 @@
-package org.simecsystem;
+package com.simecsystem;
 
 public class Main {
     public static void main(String[] args) {
