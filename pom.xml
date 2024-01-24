@@ -29,6 +29,20 @@
             <scope>provided</scope>
         </dependency>
 
+
+        <!-- https://mvnrepository.com/artifact/com.github.traktion0/safenet-java-client -->
+
+
+
+
+
+
+
+
+
+
+
+
     </dependencies>
 
     <build>
