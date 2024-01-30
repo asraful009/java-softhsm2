@@ -51,7 +51,7 @@ public class Test {
         }
     }
 
-    public static void main(String[] args) {
-        getCertificateList();
-    }
+   // public static void main(String[] args) {
+        //getCertificateList();
+  //  }
 }

@@ -24,7 +24,7 @@ public class TestSofthsm {
         }
         return new String(hexChars);
     }
-    public static void main(String[] args) {
+    public static void maion(String[] args) {
         File file = new File("/Users/imac/.keystore");
         try(InputStream is = new FileInputStream(file)) {
 
