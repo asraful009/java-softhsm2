@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><note>
+    <id>123</id>
+    <name>Simec</name>
+    <data>Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry's
+        standard dummy text ever since the 1500s, when an unknown
+        printer took a galley of type and scrambled it to make a
+        type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s
+        with the release of Letraset sheets containing
+        Lorem Ipsum passages, and more recently with
+        desktop publishing software like Aldus PageMaker including
+        versions of Lorem Ipsum.
+    </data>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>ZGww4dn/vI4hRnPwN5JBa3msejNMw5a5F4a3PDrtuzE=</DigestValue></Reference></SignedInfo><SignatureValue>Z8SzQKEzdOAuan4k3Q1gMc/y9xRxMbfTDoOMsqlaL7nEDF5atkpku9zqJ/7cfBpXfPLN/9Q0bQgK&#13;
+XDWdtau4JYfGpmh/x3G/4Mps6EpdegSteRA0cBruodL5UNYwMs8RmTUpq/mUMLAypB+XNSgcs7h2&#13;
+vihMV21vr3/W3Ib7VIWm9KZ1hMCRcl5n6D8qEmwxtLaqUKVMj1WvlrFT1ORznicrnnEXtET5ulve&#13;
+0EM0mAvi3vG8Tf6aYwfLMR345igoPHiJAzR8YBMwWdQ374FyfIwXQIM4I2enObPb9BHRxYunK1w0&#13;
+rmZUAyxdxdYEqOZtnVdxsOHiEHIFBAfvYhHhOg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5s+TCQ4LvKvxyVebjUPEDzQ1wumXeQYRaNZ1Jq/iExs6K7sGRyV9SHtJYn4tedCQDbNJpAyhtMZr&#13;
+X4s0qQfzC6GSnKgLwQhMpD80YD+EEiL+zfhHud4fdoAeT9+fbjrmX1dhv1g9F1K3twTdn47eglLz&#13;
+CPvUOoDVW9EjVyKoCgsd5YoR8A9yt9tm9IqjpHI0PQRNUsKr6QdNMMJAZwbgM82RRc15yIDKn5/k&#13;
+1+ke8C/PSZNdahZT+d9U6khoVIUx3h31E/04V2CoHVKyadoeBeyYteFBXcmJxuQ4ZBJF/61jvc3j&#13;
+wZEq+ZwR5afVe98+TYQ2xQdQnGwT9GGURndLRQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></note>
